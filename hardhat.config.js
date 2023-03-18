@@ -18,7 +18,7 @@ const GOERLI_RPC_URL =
   "https://eth-goerli.g.alchemy.com/v2/UchvT83Y1Kddxk2LNLNp3jkhT_kCu0SM"
 const PRIVATE_KEY =
   process.env.PRIVATE_KEY ||
-  "d38c99743339c3e8090f35771ec12bcc25cec422df807d4dc1190c608e52a4da"
+  ""
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || "RXNYPWYW15XXJAWCQP2HWA99RF7RH8TVRX"
 
 module.exports = {
